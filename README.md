@@ -1,4 +1,5 @@
 # hello-world
 My first repository
-Here I am on the readme-edits branch and editing this file
-I find it funny to work learn git
+How could I know which branch am I on in this Pages? 
+Click the branch name and make sure where you are
+
